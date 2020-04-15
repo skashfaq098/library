@@ -7,4 +7,4 @@ A new Flutter project.
 This app search the items stored in Firestore and Displays the Item in Cards.
 
 
-![GitHub Logo](/Screenshot_20200415-231825.png)
+![](/Screenshot_20200415-231825%5.png 50*20)
